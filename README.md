@@ -30,4 +30,4 @@ or
 `/function risinglava:godown`
 <br/>
 ## Note
-Due to how Minecraft works, if not all of the chunks in the lava region are loaded, the lava will not fill and it will be very sad :( so it is best used on a server or with a high render distance.
+Due to how Minecraft works, if not all of the chunks in the 200 by 200 region are loaded, the lava will not fill and it will be very sad :( so it is best used on a server or with a high render distance.
