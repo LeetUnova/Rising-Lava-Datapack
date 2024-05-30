@@ -11,11 +11,15 @@ This will start the lava's rise and create a world border with a side length of 
 <br/>
 `/function risinglava:stop`
 <br/>
+<br/>
 To stop the lava from rising or lowering, but it will remain there. If you are impatient and want to raise or lower the lava faster, you can use
 <br/>
 `/function risinglava:rise`
 <br/>
+and
+<br/>
 `/function risinglava:low`
+<br/>
 <br/>
 But if you want to switch direction, you have to first call
 <br/>
@@ -25,3 +29,5 @@ or
 <br/>
 `/function risinglava:godown`
 <br/>
+## Note
+Due to how Minecraft works, if not all of the chunks in the lava region are loaded, the lava will not fill and it will be very sad :( so it is best used on a server or with a high render distance.
